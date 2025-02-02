@@ -71,10 +71,29 @@
 
 ## 📫 **Connect with Me**
 
-📧 **Email:** [turjo0599@gmail.com](mailto:turjo0599@gmail.com)  
-📞 **Phone:** 01785895898  
-🔗 **LinkedIn:** [Vulpine Allure](https://www.linkedin.com/in/vulpine-allure)  
-📘 **Facebook:** [Mohammed Ahetasamul Rasul](https://www.facebook.com/mohammed.ahetasamul.rasul)  
+<div align="center">
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="#" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/99184393/178149047-066d4517-dfa4-4a37-a8d8-989960c64b16.gif" width="50%">
