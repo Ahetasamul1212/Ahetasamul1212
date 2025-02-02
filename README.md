@@ -63,9 +63,10 @@
 
 ## 🏆 **Achievements**
 
-- 🏅 **Published an IEEE paper** (in progress)  
-- 🌍 **Representing Bangladesh in SJWP 2025**  
-- 🏆 **Competing in Codavour Scratch Coding Competition**  
+- 🏅 **Former DRMC Math Summit Champion** (Project Display)
+- 🏅 **Former RIoT 2nd Runnersup Prize Holder**
+- 🌍 **Representing a creator world**  
+- ✨ **Preparing for Competitive Programming**  
 
 ---
 
