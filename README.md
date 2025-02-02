@@ -22,26 +22,20 @@
 
 ---
 
-## 🛠 **Tech Stack & Skills**
+## 🛠 **Programming Languages & Frameworks**
 
-### 🚀 **Programming Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-
-### 🤖 **Machine Learning & AI**
-
-- 🧠 Neural Networks, Random Forest, SVM, XGBoost  
-- 🎯 Hyperparameter Tuning, Feature Engineering  
-- 🔍 Model Optimization & Ensemble Learning  
-
-### 🔗 **Other Technologies**
-
-- 🗄 **SQL** (Databases)  
-- 🌍 **IoT & Data Analysis** (for ML projects)  
-- 🔧 **Git & GitHub** (Version Control)  
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Visualization-008080?style=for-the-badge&logo=tableau&logoColor=white" />
+</div>
 
 ---
 
