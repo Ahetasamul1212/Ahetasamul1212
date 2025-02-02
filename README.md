@@ -46,7 +46,7 @@
 > - 💦 Implementing ML-based water usage prediction  
 > - 📡 Using real-time data for optimization  
 
-### ⚕️ **Health Emergency Prediction System**  
+### ⚕️ **Medista Health Emergency Prediction System**  
 > **Goal:** Predict medical emergencies with AI.  
 > - 📊 Achieved **69% accuracy** with Neural Networks  
 > - ⚙️ Working on feature engineering & optimization  
